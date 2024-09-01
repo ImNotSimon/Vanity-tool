@@ -1,3 +1,4 @@
+# NOTE: THIS IS THE ORIGINAL VERSION, MADE FOR SPITE LEVEL EDITOR ONLY
 # Vanity
 Envy & Spite 1.4.5 project set-up tool.
 Edited ver. of AssetRipper: [https://github.com/AssetRipper/AssetRipper/](https://github.com/AssetRipper/AssetRipper/)
